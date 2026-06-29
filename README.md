@@ -14,4 +14,4 @@
 * **Асинхронные задачи:** Celery + Redis
 * **Machine Learning:** CatBoost (табличные данные), PyTorch + LSTM (временные ряды)
 * **AI / NLP:** Интеграция с LLM API (YandexGPT / GigaChat) через RAG-архитектуру
-* **Инфраструктура и CI/CD:** Docker, GitHub Actions / GitVerse Pipelines
+* **Инфраструктура:** Docker
